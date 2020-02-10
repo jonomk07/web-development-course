@@ -8,7 +8,7 @@ $(function(){
        }).done(function(data){
           $.each(data.artists, function(key,val){
               $('.info-artists')
-              .append('<li>' + val.name + '<li>')
+              .append('<li>' + val.name + '</li>')
           }) //Each
        });//ajax Done
     });// Click Event
