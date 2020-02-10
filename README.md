@@ -27,4 +27,4 @@ npm cache clean --force && rm -rf node_modules && rm -f package-lock.json && npm
 5. Run `> gulp` to start live preview server
 
 ## More Stuff
-Check out some of my other courses on [LinkedIn Learning](http://bit.ly/raybo) and [lynda.com](http://lynda.com/rayvillalobos). You can follow me on [LinkedIn](https://www.linkedin.com/in/planetoftheweb/), read [my blog](http://raybo.org), [follow me on twitter](http://twitter.com/planetoftheweb), or check out my [youtube channel](http://youtube.com/planetoftheweb).
+You can follow me on [LinkedIn](https://www.linkedin.com/in/jonathan-muamba-892a7745/), view  [my presonal website ](https://jonomuamba.co.za/).
