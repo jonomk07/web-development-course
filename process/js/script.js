@@ -1,3 +1,4 @@
+
 $(function(){
     $('.load-info').on('click',function(){
        $.ajax({
