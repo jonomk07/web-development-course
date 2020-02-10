@@ -1,7 +1,6 @@
-# Mastering Web Developer Interview Code
-This is the repository for my course Mastering Web Developer Interview Code. The full course is available on [LinkedIn Learning](http://bit.ly/2j2L8RN) and [Lynda.com](https://www.lynda.com/Web-Development-tutorials/Mastering-Web-Developer-Interview-Code/580663-2.html)
+# Web Development Code
+This is the repository for a web development course inspied from Mastering Web Developer Interview Code that will have extra features like flexbox a bit of reactJs etc . The full course original course is available on [LinkedIn Learning](http://bit.ly/2j2L8RN)
 
-[![Mastering Web Developer Interview Code](https://media-exp2.licdn.com/media-proxy/ext?w=1200&h=675&f=n&hash=XutUSjKycXac0vqSZuNUXGoUHOg%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-kUyWs_NafZX_pf8HcZLSiol4TcSoJlAA7feevRznjFI69LcLmY4Yx3A)](http://bit.ly/2j2L8RN)
 
 Whether you're actively looking for a new job, or you just want to keep your coding skills sharp, it's important to refresh your understanding of the kinds of front-end and full-stack developer code that potential employers value. In this weekly series, senior staff author explores essential coding skills that every developer should have in their toolkit. In addition to taking you through a series of brief, practical exercises, this course includes interviews with hiring managers and industry professionals that can help demystify the interview process for web developers, and provide you with examples of how others in the field have navigated their careers. Tune in every Tuesday for a new tip.
 
@@ -13,8 +12,9 @@ The branches are structured so that they correspond to the videos in the course.
 
 You may find additional branches that correspod to other states, so for example, you may see a `t`, which means this is a target branch. A target branch is something I use during development or updates of a course and it's for a branch that I'm working towards. For the purposes of taking a course, you may ignore any additional branches. The `master` branch usually has the state of the project as I'm working through it and the final state of the code when I finish the course. 
 
-## Documentation
-If there are slides for this course, they will be available using the `gh-pages` branch. You can easily get to the slides by going to http://raybo.org/masteringcode. The slides were created using [rayveal.js](https://github.com/planetoftheweb/rayveal) an opinionated version of the excellent reveal.js framework. Within these slides you can also read my notes for the project, just hit `ctrl-m` to get a menu with all of the slides for the project.
+## Documentation.
+in case you cannot update the package.jsonand  package-lock.json run below command:
+npm cache clean --force && rm -rf node_modules && rm -f package-lock.json && npm install
 
 ## Installing
 1. Make sure you have these installed
